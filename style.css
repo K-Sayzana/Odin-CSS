@@ -146,6 +146,18 @@ button {
    border-radius: 3px;
 }
 
+/* --------------------------- */
+
+footer {
+    background-color: #1F2937;
+    color: white;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+
 
 
 
