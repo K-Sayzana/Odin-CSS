@@ -73,6 +73,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 .cards-all{
@@ -93,4 +94,28 @@ a {
     height: 250px;
     border: 3px solid #1565e7;
     border-radius: 8px;
+}
+
+
+/* ---------------------------------------- */
+
+.quote-card {
+    margin: 0;
+    background-color: #E5E7EB;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #1F2937;
+    font-size: 20px;
+    
+}
+
+.quote-card blockquote {
+    width: 550px;
+}
+.quote-card figcaption {
+  align-items: end;
+  font-weight: 700;
 }
