@@ -1,25 +1,34 @@
-# 🐄 Moo Point: The Ultimate Cow Destination
-A fun, responsive landing page dedicated to cow enthusiasts, featuring bovine humor and historical quotes.
+# Moo Point - The Ultimate Cow Destination
 
-## 📋 Project Description
-This project is a practice in building a modern landing page layout. [cite_start]It demonstrates the use of **Flexbox** for alignment, **External CSS** for styling, and **Semantic HTML** for structure—moving away from generic `<div>` containers where possible. [cite: 1, 3, 6]
+This is a landing page project for [The Odin Project's](https://www.theodinproject.com/) Foundation course. The goal of the project was to practice creating a complex layout from scratch using **CSS Flexbox**.
 
-## 🚀 Key Features
-* **Hero Section**: A catchy "Mooo-ve over" call-to-action with a sign-up button.
-* **Bovine Humor Cards**: A grid of cards featuring cow jokes and images. 
-* **Semantic Quotes**: A beautifully styled quote from Thomas de Quincey using `<figure>` and `<blockquote>`.
-* **Responsive Layout**: Uses Flexbox to ensure the "Sign Up" call-to-action and navigation menus are aligned properly.
 
-## 🛠️ Semantic Improvements Made
-[cite_start]Inspired by the "Semantic HTML Example", I used:
-* [cite_start]**`<nav>`**: For the "Cow Central" and "Pictures" links. [cite: 3]
-* **`<figure>`/`<figcaption>`**: To properly attribute the historical quote.
-* [cite_start]**`<footer>`**: To hold the copyright information for Sayzana Kibru. [cite: 20]
 
-## 📝 How to Use
-1. Clone the repository.
-2. Ensure you have the `images/` folder with the necessary Unsplash assets.
-3. Open `index.html` to view the "Gentle Giants" in your browser.
+## 🐮 Project Overview
+
+This project is a multi-section landing page about cows. It features a navigation bar, a hero section with a call-to-action, an informational section with image cards, a quote section, and a sign-up banner.
+
+### Key Features:
+* **Semantic HTML5**: Used proper tags like `<nav>`, `<figure>`, `<footer>`, and `<blockquote>`.
+* **Flexbox Layout**: Heavily used `flex-direction`, `justify-content`, and `align-items` to create a responsive-feeling structure.
+* **Custom Styling**: Implementation of specific color palettes, border-radii, and typography.
+
+## 🛠️ Technical Implementation
+
+### Flexbox Usage
+I used Flexbox to solve several layout challenges:
+1.  **Header/Nav**: Used `justify-content: space-between` to separate the logo from the navigation links.
+2.  **Hero Section**: Aligned text and image side-by-side using `flex: 1` for equal spacing.
+3.  **Info Cards**: Implemented a row of cards that wrap and align perfectly using `flex-wrap: wrap` and `gap`.
+4.  **Blue Call-to-Action**: Centered content and the button on opposite ends of a container.
+
+
+
+## 🚀 How to Run
+Clone this repository:
+   ```bash
+   git clone <your-repo-link>
+
 
 ## 🎓 Author
 **Sayzana Kibru**, AASTU 2025
