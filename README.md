@@ -27,8 +27,7 @@ I used Flexbox to solve several layout challenges:
 ## 🚀 How to Run
 Clone this repository:
    ```bash
-   git clone <your-repo-link>
-
-
+        git clone https://github.com/K-Sayzana/Odin-CSS.git
+```
 ## 🎓 Author
 **Sayzana Kibru**, AASTU 2025
