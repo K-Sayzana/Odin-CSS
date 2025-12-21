@@ -1,5 +1,7 @@
 # Moo Point - The Ultimate Cow Destination
 
+[**🔗 Click here for the Live Preview**](https://k-sayzana.github.io/Odin-CSS/)
+
 This is a landing page project for [The Odin Project's](https://www.theodinproject.com/) Foundation course. The goal of the project was to practice creating a complex layout from scratch using **CSS Flexbox**.
 
 
